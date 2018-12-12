@@ -1,2 +1,4 @@
 repos:
 - url: https://github.com/elastic/logstash.git
+  installed: 6.5.3
+  
