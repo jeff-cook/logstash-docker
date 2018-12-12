@@ -1,4 +1,9 @@
 version: 2
 dependencies:
+
 - type: git-repos
   path: git_repos.yml
+
+- type: dockerfile
+  path: templates/Dockerfile.j2
+  
