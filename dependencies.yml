@@ -1,0 +1,4 @@
+version: 2
+dependencies:
+- type: git-repos
+  path: git_repos.yml
